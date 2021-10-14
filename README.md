@@ -18,8 +18,12 @@ Used Python for the data cleaning aspect of this project. Went through each of m
 
 Example: Combining similar values for a specific weather type for a game. Changing Outdoors to Outdoor value as well as other misspellings in the dataset. 
 
+Before:
 
 ![Snip20211014_1](https://user-images.githubusercontent.com/92532095/137372011-79cfa29a-93a1-4534-91f0-46ff5209d889.png)
 
 
+After:
 
+
+![Snip20211014_2](https://user-images.githubusercontent.com/92532095/137372217-a92d76e1-e117-4696-b97a-1a3b005bc5f0.png)
