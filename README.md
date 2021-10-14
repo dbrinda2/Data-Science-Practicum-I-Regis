@@ -38,4 +38,11 @@ After:
 ![Snip20211014_4](https://user-images.githubusercontent.com/92532095/137372427-29be1b6d-b28a-4f9e-8906-818ad8a8916b.png)
 
 
+## Exploratory Data Analysis
+
+Below is some of the R code that I did orginally to analyze my datasets before starting to model. 
+
+![Snip20211014_5](https://user-images.githubusercontent.com/92532095/137372798-4e3ccd2d-97f3-45e6-ac14-bb9ff6cdc7f2.png)
+
+![Snip20211014_6](https://user-images.githubusercontent.com/92532095/137372828-8a9cdee2-5bd4-4fd0-ac7d-df3153e24053.png)
 
