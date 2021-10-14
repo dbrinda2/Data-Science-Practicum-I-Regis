@@ -56,6 +56,11 @@ Below are some of the main graphs that I produced comparing all the variables to
 
 ![Snip20211007_3](https://user-images.githubusercontent.com/92532095/137373241-b4117998-2865-4d13-9694-998353712402.png)
 
-##File Structure in Repository
+## File Structure in Repository
+
+PythonCleaning.ipynb : Python source code of full cleaning file of 3 datasets that I worked with.
+
+EDA and Modeling.R : R source code of exploratory data analysis and modeling/plots of variable relationships.
+
 
 
