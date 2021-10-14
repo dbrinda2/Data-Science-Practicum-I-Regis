@@ -66,3 +66,8 @@ EDA and Modeling.R : R source code of exploratory data analysis and modeling/plo
 
 Drew Final Video .pptx: Powerpoint Presentation of final video slides.
 
+InjuryRecordSample.csv: Sample of Injury Record Dataset 
+
+PlayListSample.csv: Sample of Play List Dataset
+
+PlayTrackSample.csv: Sample of Player Track Dataset
