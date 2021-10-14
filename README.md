@@ -27,3 +27,15 @@ After:
 
 
 ![Snip20211014_2](https://user-images.githubusercontent.com/92532095/137372217-a92d76e1-e117-4696-b97a-1a3b005bc5f0.png)
+
+Same with Weather. Before:
+
+
+![Snip20211014_3](https://user-images.githubusercontent.com/92532095/137372381-5a2f76ee-8da1-4d59-9989-611186f16483.png)
+
+After:
+
+![Snip20211014_4](https://user-images.githubusercontent.com/92532095/137372427-29be1b6d-b28a-4f9e-8906-818ad8a8916b.png)
+
+
+
