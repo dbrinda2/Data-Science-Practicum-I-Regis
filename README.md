@@ -19,6 +19,7 @@ Used Python for the data cleaning aspect of this project. Went through each of m
 Example: Combining similar values for a specific weather type for a game. Changing Outdoors to Outdoor value as well as other misspellings in the dataset. 
 
 
+![Snip20211014_1](https://user-images.githubusercontent.com/92532095/137372011-79cfa29a-93a1-4534-91f0-46ff5209d889.png)
 
 
 
