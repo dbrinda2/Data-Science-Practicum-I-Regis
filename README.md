@@ -46,3 +46,13 @@ Below is some of the R code that I did orginally to analyze my datasets before s
 
 ![Snip20211014_6](https://user-images.githubusercontent.com/92532095/137372828-8a9cdee2-5bd4-4fd0-ac7d-df3153e24053.png)
 
+## Data Vizualizations
+
+Below are some of the main graphs that I produced comparing all the variables to injuries to see the major trends. The rest of them will be found and discussed in my final video link.
+
+![Snip20211007_1](https://user-images.githubusercontent.com/92532095/137373077-d8be8a96-7fe9-47c4-a2b7-912efbe71a31.png)
+
+![Snip20211007_2](https://user-images.githubusercontent.com/92532095/137373114-98d97cca-52b5-43e1-bdac-e22f83deb58c.png)
+
+![Snip20211007_3](https://user-images.githubusercontent.com/92532095/137373241-b4117998-2865-4d13-9694-998353712402.png)
+
